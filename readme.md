@@ -249,11 +249,4 @@ This project covers topics frequently asked in interviews:
 
 ---
 
-# 👨‍💻 Author
-
-Vismay Parekh  
-Python Backend Developer  
-
----
-
 ⭐ If you found this helpful, consider giving the repository a star!
